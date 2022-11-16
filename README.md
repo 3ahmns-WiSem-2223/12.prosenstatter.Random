@@ -10,5 +10,5 @@ UnityEngine.Randon ist eine statische Klasse die nur ein einzelner "globaler" Fl
 ## Warum ist es sinnvoll den seed zu setzen bei Random?
 Der Seed ist ein Ausgangspunkt für eine Folge von Pseudozufallszahlen. Mit dem selben Seed erhält man die Selbe Sequenz.
 
-Was macht 
-Random.Range 
+## Was macht Random.Range 
+Es gibt 2 Werte an zwischen denen eine zufällige nummer ausgewählt wird(minInclusive,maxInclusive)
